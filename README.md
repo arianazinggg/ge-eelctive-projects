@@ -1,2 +1,2 @@
-# ge-eelctive-projects
+# ge-elective-projects
 Compilation of my projects
