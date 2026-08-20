@@ -1,16 +1,21 @@
-<table width="100%"><tr><td align="center" bgcolor="#0D6EFD"><br><font color="white"><h1>GE 4120 ELECTIVE</h1><h3>Laboratory Projects & Activities</h3></font><br></td></tr></table>
+# GE 4120 ELECTIVE
 
-<div align="center">
+## Introduction
 
-Ariane Mae Mendez
-4th Year – Data Science
+**Name:** Ariane Mae Mendez  
+**Year & Course:** 4th Year - Data Science
 
-</div>
+This repository contains my laboratory activities and projects for GE 4120 Elective.
 
-📌 Introduction
+## Laboratory Activities
 
-Welcome to my GE 4120 Elective laboratory project repository.
-
-This repository serves as the main collection of my laboratory activities, projects, outputs, and related requirements for the subject. It contains the files and documentation developed throughout the course.
-
-The purpose of this repository is to keep all laboratory outputs organized, accessible, and properly documented in one place.
+- Laboratory 01
+- Laboratory 02
+- Laboratory 03
+- Laboratory 04
+- Laboratory 05
+- Laboratory 06
+- Laboratory 07
+- Laboratory 08
+- Laboratory 09
+- Laboratory 10
