@@ -1,7 +1,10 @@
 # GE 4120 ELECTIVE 
 
+#
 **INTRODUCTION**
+#
 **NAME:** Ariane Mae Mendez
+#
 **YEAR & COURSE:** 4th Year - Data Science
 
 
