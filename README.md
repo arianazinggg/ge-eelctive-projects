@@ -1,15 +1,17 @@
-<div style="background-color: #ADD8E6; padding: 30px;">
+<h1 align="center">
+  🔵 GE 4120 ELECTIVE
+</h1>
 
-# GE 4120 ELECTIVE
-
-### Laboratory Projects & Activities
+<h3 align="center">
+  Laboratory Projects & Activities
+</h3>
 
 ---
 
 ## Introduction
 
 **Name:** Ariane Mae Mendez  
-**Year & Course:** 4th Year - Data Science
+**Year & Course:** 4th Year - Data Science  
 
 This repository contains my laboratory activities and projects for GE 4120 Elective.
 
@@ -19,5 +21,3 @@ This repository contains my laboratory activities and projects for GE 4120 Elect
 - Laboratory 02
 - Laboratory 03
 - Laboratory 04
-
-</div>
