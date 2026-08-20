@@ -1,18 +1,10 @@
-<div align="center">
+<div style="background-color: #ADD8E6; padding: 30px;">
 
-<table>
-<tr>
-<td bgcolor="#3498DB" align="center">
+# GE 4120 ELECTIVE
 
-# <font color="white">GE 4120 ELECTIVE</font>
+### Laboratory Projects & Activities
 
-<font color="white">Laboratory Projects & Activities</font>
-
-</td>
-</tr>
-</table>
-
-</div>
+---
 
 ## Introduction
 
@@ -27,9 +19,5 @@ This repository contains my laboratory activities and projects for GE 4120 Elect
 - Laboratory 02
 - Laboratory 03
 - Laboratory 04
-- Laboratory 05
-- Laboratory 06
-- Laboratory 07
-- Laboratory 08
-- Laboratory 09
-- Laboratory 10
+
+</div>
