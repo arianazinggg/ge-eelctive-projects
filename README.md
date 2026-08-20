@@ -1,4 +1,18 @@
-# GE 4120 ELECTIVE
+<div align="center">
+
+<table>
+<tr>
+<td bgcolor="#3498DB" align="center">
+
+# <font color="white">GE 4120 ELECTIVE</font>
+
+<font color="white">Laboratory Projects & Activities</font>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## Introduction
 
